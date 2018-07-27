@@ -1,5 +1,5 @@
 # person.rb
-def Person 
+class Person 
 end 
 
 adele_goldberg = Person.new 
